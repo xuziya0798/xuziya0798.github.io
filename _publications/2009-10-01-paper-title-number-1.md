@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Leveraging Local Distributions in Mendelian Randomization: Uncertain Opinions are Invalid."
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper developed a robust causal inference method for estimating causal effects in the presence of invalid instrumental variables. The method was applied to evaluate the causal effects of BMI on various outcomes (e.g., height, blood pressure, type 2 diabetes, coronary artery disease) using genetic variants as instrumental variables.'
+date: 2024-8
+venue: 'Statistica Sinica'
+paperurl: 'https://www3.stat.sinica.edu.tw/ss_newpaper/SS-2023-0344_na.pdf'
+citation: 'Ziya Xu and Sai Li. (2009). &quot;Leveraging Local Distributions in Mendelian Randomization: Uncertain Opinions are Invalid.&quot; <i>Statistica Sinica</i>. 1(1).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
